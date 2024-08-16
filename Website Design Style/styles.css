@@ -1,0 +1,116 @@
+h1 {
+  margin-left: 10px;
+}
+/*Color Section*/
+.colors, .fonts, .text-style{
+  border: 1px solid #000;
+  padding: 10px;
+  margin: 10px;
+}
+
+.fonts {
+  background-color: rgba(240, 46, 180, 0.2);
+}
+
+.text-style {
+  background-color: rgba(170, 46, 60, 0.2);
+}
+
+.color-section {
+  display: inline-block;
+  border: 1px solid #000;
+  width: 30%;
+  margin: 0px 0px 10px 0px;
+}
+
+.color-section p {
+  text-align: center;
+}
+
+.cool-blue {
+  background-color: rgb(45, 93, 204);
+  color: rgb(255,255,255);
+}
+
+.pink {
+  background-color: rgb(217, 87, 217);
+  color: rgb(0,0,0);
+}
+
+.mint-green {
+  background-color: rgb(79, 224, 176);
+  color: rgb(0,0,0);
+}
+
+.beige {
+  background-color: rgb(239, 217, 202);
+  color: rgb(0,0,0);
+}
+
+/*Font Section*/
+.font-title {
+  text-decoration: underline;
+}
+
+.font-section {
+  display: inline-block;
+  width: 49%;
+  margin: 0px 0px 10px 0px;
+  font-size: 12px;
+}
+
+.oswald {
+  font-family: Oswald;
+}
+
+.work-sans {
+  font-family: "Work Sans";
+}
+
+.merriweather {
+  font-family: Merriweather;
+}
+
+.plain {
+  font-weight: 400;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 900;
+}
+.underline {
+  text-decoration: underline;
+}
+
+/*Text-Style*/
+.h-1{
+  font-weight: 700;
+  font-size: 26px;
+  font-family: Oswald;
+}
+
+.h-2{
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Work Sans";
+}
+
+.p-text{
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Work Sans";
+}
+
+
+
+
+
+
+
+
+
+
